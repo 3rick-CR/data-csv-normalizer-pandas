@@ -6,13 +6,19 @@ El sistema analiza dinámicamente las propiedades del archivo para aislar identi
 
 ## 🎯 Características Clave
 
-*   **Diagnóstico Automatizado (`info`):** Inspección rápida del DataFrame que detalla dimensiones, tipos de datos de Pandas y conteo preciso de valores nulos (`NaN`) por columna.
-*   **Normalización Estándar de Columnas:** Remoción de espacios en blanco, conversión a minúsculas y sustitución de espacios por guiones bajos (`snake_case`) de manera automatizada.
+*   **Diagnóstico Automatizado (`info`):**
+*   Inspección rápida del DataFrame que detalla dimensiones, tipos de datos de Pandas y conteo preciso de valores nulos (`NaN`) por columna.
+  
+*   **Normalización Estándar de Columnas:**
+*   Remoción de espacios en blanco, conversión a minúsculas y sustitución de espacios por guiones bajos (`snake_case`) de manera automatizada.
+  
 *   **Tratamiento Inteligente de Nulos:**
-    *   El programa muestra diferentes opciones para el tratamiento de nulos dependiendo el tipo de dato de los valores que almacena la columna mediante **Moda, Promedio, Mediana, valores fijos o edición manual uno a uno (1x1)** interactiva.
-    *   Detecta automáticamente si una columna es un **ID/Matrícula** para un tratamiento de los valores nulos mas personalizado como: limpieza manual o llenado de los registros vacíos 1x1.
-    *   Detecta columnas de **fechas** aplicando parseo flexible y formateo estandarizado.
-*   **Gestión Dinámica de Archivos:** Exportación automatizada que hereda el nombre del archivo original y le añade el sufijo `_clean.csv` de forma transparente utilizando la librería estándar `pathlib`.
+*   El programa muestra diferentes opciones para el tratamiento de nulos dependiendo el tipo de dato de los valores que almacena la columna mediante **Moda, Promedio, Mediana, valores fijos o edición manual uno a uno (1x1)** (interactivo).
+*   Detecta automáticamente si una columna es un **ID/Matrícula** para un tratamiento de los valores nulos mas personalizado como: limpieza manual o llenado de los registros vacíos 1x1.
+*   Detecta columnas de **fechas** aplicando parseo flexible y formateo estandarizado.
+  
+*   **Gestión Dinámica de Archivos:**
+*   Exportación automatizada que hereda el nombre del archivo original y le añade el sufijo `_clean.csv` de forma transparente utilizando la librería estándar `pathlib`.
 
 ---
 
