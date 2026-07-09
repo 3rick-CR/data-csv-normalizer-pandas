@@ -6,8 +6,7 @@ El sistema analiza dinámicamente las propiedades del archivo para aislar identi
 
 ## 🎯 Características Clave
 
-* **Diagnóstico Automatizado (`info`):**
- * Inspección rápida del DataFrame que detalla dimensiones, tipos de datos de Pandas y conteo preciso de valores nulos (`NaN`) por columna.
+* **Diagnóstico Automatizado (`info`):** Inspección rápida del DataFrame que detalla dimensiones, tipos de datos de Pandas y conteo preciso de valores nulos (`NaN`) por columna.
   
 * **Normalización Estándar de Columnas:** Remoción de espacios en blanco, conversión a minúsculas y sustitución de espacios por guiones bajos (`snake_case`) de manera automatizada.
   
