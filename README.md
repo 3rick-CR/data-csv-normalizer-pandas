@@ -53,6 +53,7 @@ Sigue estos pasos para configurar y ejecutar la herramienta en tu entorno local 
 
    
 3. **Ejecutar el programa:**
+   
    **Importante**: antes de continuar verificar que el archivo csv a limpiar se encuentre dentro de la misma carpeta "data-csv-normalizer-pandas" en     el escritorio
    
    Una vez configurado el entorno y colocado el archivo csv dentro de la carpeta ejecutamos el programa con el siguiente comando:
