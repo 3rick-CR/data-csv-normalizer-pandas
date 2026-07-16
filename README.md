@@ -1,5 +1,7 @@
 ## data-csv-normalizer-pandas
+
 Herramienta interactiva por línea de comandos (CLI) desarrollada en Python y Pandas, diseñada para automatizar el diagnóstico, la normalización y el tratamiento inteligente de valores faltantes en conjuntos de datos estructurados (CSV).
+
 El sistema analiza dinámicamente las propiedades del archivo para aislar identificadores (IDs) y fechas mediante reglas contextuales, ofreciendo menús de limpieza personalizados (imputación estadística o manual) y exportando el resultado limpio de forma dinámica y automatizada. Ideal para agilizar la etapa de preprocesamiento en flujos de trabajo de Ciencia de Datos.
 
 ---
@@ -20,9 +22,9 @@ El sistema analiza dinámicamente las propiedades del archivo para aislar identi
 
 ## 🛠️ Tecnologías Utilizadas
 
-*   **Python 3.x**
-*   **Pandas:** Para la manipulación eficiente de estructuras de datos en memoria.
-*   **Pathlib:** Para la gestión e inferencia segura de rutas en el sistema de archivos.
+* **Python 3.x**
+* **Pandas:** Para la manipulación eficiente de estructuras de datos en memoria.
+* **Pathlib:** Para la gestión e inferencia segura de rutas en el sistema de archivos.
 
 ---
 
@@ -30,31 +32,14 @@ El sistema analiza dinámicamente las propiedades del archivo para aislar identi
 
 Sigue estos pasos para configurar y ejecutar la herramienta en tu entorno local de manera sencilla:
 
-1. **Instalar las dependencias del proyecto:**
-
-   **Contar con Python instalado:**
-   Este proyecto fue desarrollado en **Python 3.x**. sitio oficial:https://www.python.org
-   Durante la instalación en Windows, asegúrate de marcar la casilla "Add Python to PATH".
-
-   **libreria Pandas:**
-   Esta herramienta requiere de la librería Pandas para la manipulación y análisis de datos. Puedes instalarla en la terminal CMD ejecutando:
-   pip install pandas 
-
+1. **Preparar el entorno de desarrollo:**
+   * **Contar con Python instalado:** Este proyecto fue desarrollado en **Python 3.x**. Si no lo tienes, descárgalo desde su [sitio oficial](https://www.python.org). Durante la instalación en Windows, asegúrate de marcar la casilla **"Add Python to PATH"**.
+   * **Instalar la librería Pandas:** Abre tu terminal (CMD) e instala la dependencia requerida ejecutando:
+     ```bash
+     pip install pandas
+     ```
 
 2. **Clonar el repositorio y acceder al directorio:**
-   Obtén una copia local del proyecto y navega hacia la carpeta raíz:
-
-   - Para Clonar el repositorio:
-     cd Desktop && git clone https://github.com/3rick-CR/data-csv-normalizer-pandas.git
-     Nota: se creara una carpeta en el escritorio "data-csv-normalizer-pandas" contiene el .py
-
-   - Una vez configurado el entorno, ir a la ruta de la carpeta que se creo en el paso anterior con el siguiente comando:
-     cd data-csv-normalizer-pandas
-
-   
-3. **Ejecutar el programa:**
-   
-   **Importante**: antes de continuar verificar que el archivo csv a limpiar se encuentre dentro de la misma carpeta "data-csv-normalizer-pandas" en     el escritorio
-   
-   Una vez configurado el entorno y colocado el archivo csv dentro de la carpeta ejecutamos el programa con el siguiente comando:
-   python normalizador_csv.py
+   Obtén una copia local del proyecto directamente en tu escritorio y navega hacia la carpeta raíz ejecutando el siguiente comando de un solo jalón:
+   ```cmd
+   cd Desktop && git clone https://github.com/3rick-CR/data-csv-normalizer-pandas.git
