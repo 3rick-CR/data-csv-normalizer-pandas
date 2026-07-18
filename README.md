@@ -63,4 +63,4 @@ Sigue estos pasos para configurar y ejecutar la herramienta en tu entorno local 
    python normalizador_csv.py
    ```
 
-   
+## 🛠️ Vista Previa del Programa (CLI):
