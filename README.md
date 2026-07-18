@@ -12,8 +12,8 @@ El sistema analiza dinámicamente las propiedades del archivo para aislar identi
   
 * **Normalización Estándar de Columnas:** Remoción de espacios en blanco, conversión a minúsculas y sustitución de espacios por guiones bajos (`snake_case`) de manera automatizada.
   
-* * **Tratamiento Inteligente de Nulos:**
-* **Opciones por Tipo de Dato:** El programa muestra diferentes opciones para el tratamiento de nulos dependiendo el tipo de dato de los valores que almacena la columna mediante **Moda, Promedio, Mediana, valores fijos o edición manual uno a uno (1x1)** interactiva.
+* **Tratamiento Inteligente de Nulos:**
+  * **Opciones por Tipo de Dato:** El programa muestra diferentes opciones para el tratamiento de nulos dependiendo el tipo de dato de los valores que almacena la columna mediante **Moda, Promedio, Mediana, valores fijos o edición manual uno a uno (1x1)** interactiva.
   * **Detección de ID/Matrícula:** Detecta automáticamente si una columna es un ID para un tratamiento más personalizado como: limpieza manual o llenado de los registros vacíos 1x1.
   * **Detección de Fechas:** Detecta columnas de fechas aplicando parseo flexible y formateo estandarizado.
   
