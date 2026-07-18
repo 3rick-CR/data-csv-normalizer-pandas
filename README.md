@@ -40,6 +40,24 @@ Sigue estos pasos para configurar y ejecutar la herramienta en tu entorno local 
      ```
 
 2. **Clonar el repositorio y acceder al directorio:**
-   Obtén una copia local del proyecto directamente en tu escritorio y navega hacia la carpeta raíz ejecutando el siguiente comando de un solo jalón:
+   Obtén una copia local del proyecto directamente en tu escritorio y navega hacia la carpeta raíz ejecutando el siguiente comando:
    ```cmd
    cd Desktop && git clone https://github.com/3rick-CR/data-csv-normalizer-pandas.git
+
+   Nota: se creara una carpeta en el escritorio "data-csv-normalizer-pandas" contiene el .py
+
+   - Una vez configurado el entorno, ir a la ruta de la carpeta que se creo en el paso anterior con el siguiente comando:
+   ```bash
+   cd data-csv-normalizer-pandas
+   ```
+3. **Ejecutar el programa:**
+   
+   **Importante**: antes de continuar verificar que el archivo csv a limpiar se encuentre dentro de la misma carpeta "data-csv-normalizer-pandas" en el escritorio
+
+    Continuamos en la terminal CMD y ejecutamos el programa con el siguiente comando:
+   
+   ```bash
+   python normalizador_csv.py
+   ```
+
+   
