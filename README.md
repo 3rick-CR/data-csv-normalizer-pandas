@@ -1,4 +1,4 @@
-## data-csv-normalizer-pandas
+## Data CSV Normalizer (Pandas)
 
 Herramienta interactiva por línea de comandos (CLI) desarrollada en Python y Pandas, diseñada para automatizar el diagnóstico, la normalización y el tratamiento inteligente de valores faltantes en conjuntos de datos estructurados (CSV).
 
