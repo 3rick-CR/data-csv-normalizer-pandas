@@ -41,8 +41,9 @@ Sigue estos pasos para configurar y ejecutar la herramienta en tu entorno local 
 
 2. **Clonar el repositorio y acceder al directorio:**
    Obtén una copia local del proyecto directamente en tu escritorio y navega hacia la carpeta raíz ejecutando el siguiente comando:
-   ```cmd
+   ```bash
    cd Desktop && git clone https://github.com/3rick-CR/data-csv-normalizer-pandas.git
+   ```
 
    Nota: se creara una carpeta en el escritorio "data-csv-normalizer-pandas" contiene el .py
 
