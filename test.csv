@@ -1,0 +1,8 @@
+﻿Customerid  ,Surname,Geography,Gender,hascrcard,isactivemember  ,estimatedsalary  ,Application date ,Exit date,birth date   
+14500857,malanga,germany,female ,0,1,177759.48,10/11/2012,12/04/2014,29/09/1966
+14501146,quirk,france,male,1,0,172319.68,15/02/2012,26/08/2012,10/12/1975
+14502720,crowl,germany,male,1,0,244038.75,27/01/2014,05/11/2016,26/05/1982
+14504221,nan,nan,nan,NaN,NaN,0,22/05/2018,26/12/2018,nan
+14507049,petek ,italy,male,0,1,151385.98,04/03/2012,11/02/2013,09/06/1993
+14507910,lundemo ,spain,male,,,124978.1,10/03/2014,20/01/2017,15/02/1970
+,kreiger,spain,female ,1,1,54315.3,01/01/2012,29/05/2013,03/11/1972
