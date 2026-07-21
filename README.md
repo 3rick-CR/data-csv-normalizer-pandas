@@ -64,7 +64,7 @@ Sigue estos pasos para configurar y ejecutar la herramienta en tu entorno local 
    ```
 
 ### 🛠️ Vista Previa del Programa (CLI):
-![Vista previa](./dashboard_Superstore.jpg)
+
 
 ![Diagnóstico Inicial y Vista Previa](./img_1.png)
 
