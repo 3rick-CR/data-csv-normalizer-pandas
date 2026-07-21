@@ -68,10 +68,10 @@ Sigue estos pasos para configurar y ejecutar la herramienta en tu entorno local 
 <div align="center">
   
 ### 1. Diagnóstico Inicial y Carga de Datos:
-![Diagnóstico Inicial y Vista Previa](./img_1.png)
+![Diagnóstico Inicial y Vista Previa](./imagenes/img_1.png)
 
 ### 2. Tratamiento y Detección de Variables
-![Tratamiento Inteligente e Identificación de IDs](./img_2.jpg)
+![Tratamiento Inteligente e Identificación de IDs](./imagenes/img_2.jpg)
 
 
 </div>
