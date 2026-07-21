@@ -64,3 +64,8 @@ Sigue estos pasos para configurar y ejecutar la herramienta en tu entorno local 
    ```
 
 ### 🛠️ Vista Previa del Programa (CLI):
+
+
+![Diagnóstico Inicial y Vista Previa del DataFrame](img/img_1.png)
+
+![Verificación de Datos Limpios y Exportación Exitosa](img/img_2.jpg)
