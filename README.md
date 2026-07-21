@@ -64,10 +64,10 @@ Sigue estos pasos para configurar y ejecutar la herramienta en tu entorno local 
    ```
 
 ### 🛠️ Vista Previa del Programa (CLI):
+![Vista previa](./dashboard_Superstore.jpg)
 
+![Diagnóstico Inicial y Vista Previa](./img_1.png)
 
-![Diagnóstico Inicial y Vista Previa](img/img_1.png)
+![Tratamiento Inteligente e Identificación de IDs](./img_2.jpg)
 
-![Tratamiento Inteligente e Identificación de IDs](img/img_2.jpg)
-
-![Verificación de Datos Limpios y Exportación](img/img_3.jpg)
+![Verificación de Datos Limpios y Exportación](./img_3.jpg)
