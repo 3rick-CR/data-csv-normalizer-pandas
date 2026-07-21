@@ -65,9 +65,12 @@ Sigue estos pasos para configurar y ejecutar la herramienta en tu entorno local 
 
 ### 🛠️ Vista Previa del Programa (CLI):
 
+<div align="center">
 
 ![Diagnóstico Inicial y Vista Previa](./img_1.png)
 
 ![Tratamiento Inteligente e Identificación de IDs](./img_2.jpg)
 
 ![Verificación de Datos Limpios y Exportación](./img_3.jpg)
+
+</div>
